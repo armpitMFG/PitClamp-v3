@@ -1,0 +1,1 @@
+Same as normal ring, but the grooves are rotated 2 degrees which will point the device directly horizonal.
