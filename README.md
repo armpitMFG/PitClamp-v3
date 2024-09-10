@@ -1,3 +1,5 @@
+# Note: This project is obsolete. Use [PitClamp Mini](https://github.com/armpitMFG/PitClamp-Mini) instead
+
 ![PitClamp v3 README Cover Photo](Images/CoverPhoto.png)
 
 # PitClamp v3 Quick Release Nema23 Mount 
